@@ -1,2 +1,2 @@
-# GoCorona - верстка Лэндинга (Flex, БЭМ)
+# GoCorona - верстка Лэндинга (FlexBox, БЭМ)
 https://dmittryyyy.github.io/GoCorona/
